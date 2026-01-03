@@ -1,0 +1,12 @@
+#### 📄 plugin.yaml
+```powershell
+Set-Content "plugin.yaml" @'
+name: auto-qa-plugin
+version: 1.0.0
+description: 自動問答插件 - 支援關鍵字匹配和自動回覆
+author: YOUR_NAME
+main: __init__.AutoQAPlugin
+requirements:
+  - pywin32>=306
+  - pyautogui>=0.9.54
+'@

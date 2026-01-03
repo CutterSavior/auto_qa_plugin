@@ -1,0 +1,8 @@
+License
+setup.py
+kirara_auto_qa_plugin.egg-info/PKG-INFO
+kirara_auto_qa_plugin.egg-info/SOURCES.txt
+kirara_auto_qa_plugin.egg-info/dependency_links.txt
+kirara_auto_qa_plugin.egg-info/entry_points.txt
+kirara_auto_qa_plugin.egg-info/requires.txt
+kirara_auto_qa_plugin.egg-info/top_level.txt

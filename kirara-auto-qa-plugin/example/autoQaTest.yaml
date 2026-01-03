@@ -1,0 +1,7 @@
+﻿type: workflow
+name: auto_qa_test
+description: 測試自動問答插件
+blocks:
+  - type: simple_reply
+    config:
+      message: "自動問答插件運作正常！"

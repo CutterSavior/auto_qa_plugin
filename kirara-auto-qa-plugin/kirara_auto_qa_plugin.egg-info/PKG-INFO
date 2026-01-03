@@ -1,0 +1,39 @@
+Metadata-Version: 2.1
+Name: kirara-auto-qa-plugin
+Version: 1.0.0
+Summary: Auto QA Plugin for Kirara AI
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: License
+Requires-Dist: pywin32>=306
+Requires-Dist: pyautogui>=0.9.54
+
+# Kirara Auto QA Plugin 🎯
+
+自動問答插件 for Kirara AI - 支援關鍵字匹配和自動回覆功能
+
+## ✨ 功能
+
+- 🔍 關鍵字自動匹配
+- 💬 自動回覆訊息  
+- ⚡ 支援多平台 (QQ, Telegram, 企業微信)
+- 🎮 簡單易用的指令介面
+
+## 🚀 安裝
+
+```bash
+# 透過插件市場安裝 (推薦)
+搜尋: auto-qa-plugin
+
+# 手動安裝
+git clone https://github.com/YOUR_USERNAME/kirara-auto-qa-plugin.git
+cd kirara-auto-qa-plugin
+pip install -e .

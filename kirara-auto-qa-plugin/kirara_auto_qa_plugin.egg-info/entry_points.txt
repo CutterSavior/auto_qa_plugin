@@ -1,0 +1,2 @@
+[kirara_ai.plugins]
+auto_qa_plugin = auto_qa_plugin:AutoQAPlugin
